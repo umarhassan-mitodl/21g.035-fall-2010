@@ -4,8 +4,6 @@ description: This syllabus section provides the course description and informati
   on meeting times, grading criteria, description of assignments, two required texts,
   and a list of topics covered in each session.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -89,15 +87,15 @@ Jamaica
 
 Excerpts from:
 
-[*Roots, Rock, Reggae: Inside the Jamaican Music Scene*](http://www.imdb.com/title/tt0245397/). Terence Dackombe. Shanachie, 1977.
+{{% resource_link "c6478947-de16-4d12-a59f-bc8071fc4a87" "*Roots, Rock, Reggae: Inside the Jamaican Music Scene*" %}}. Terence Dackombe. Shanachie, 1977.
 
-[*The Harder They Come*](http://www.imdb.com/title/tt0070155/). Perry Henzell and Trevor D. Rhone. New World Pictures, 1972.
+{{% resource_link "37a741ce-4f21-4fc7-8244-396f000aadcf" "*The Harder They Come*" %}}. Perry Henzell and Trevor D. Rhone. New World Pictures, 1972.
 
-[*Dancehall Queen*](http://www.imdb.com/title/tt0127497/). Rick Elgood and Don Letts. Palm Pictures, 1997.
+{{% resource_link "ee71a467-3ac6-483d-8435-55526c24a16c" "*Dancehall Queen*" %}}. Rick Elgood and Don Letts. Palm Pictures, 1997.
 
-[*Third World Cop*](http://www.imdb.com/title/tt0179063/). Chris Browne. Palm Pictures, 1999.
+{{% resource_link "b48647ea-6bc6-48e7-87ef-c369ae200131" "*Third World Cop*" %}}. Chris Browne. Palm Pictures, 1999.
 
-[*Shottas*](http://www.imdb.com/title/tt0281190/). Cess Silvera. Sony Pictures Home Entertainment, 2002.
+{{% resource_link "21492c31-f8b4-40fa-8403-00abb92af3c2" "*Shottas*" %}}. Cess Silvera. Sony Pictures Home Entertainment, 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6-7
@@ -105,11 +103,11 @@ Excerpts from:
 United Kingdom
 {{< tdclose >}}{{< tdopen >}}
 
-"[Blogariddims #10 - An England Story](http://www.future-music.net/forum/showthread.php?t=39420)." *The Heat Wave*, November 2006.
+"{{% resource_link "69bca03d-9569-48fd-9031-ca5a2c3865d2" "Blogariddims #10 - An England Story" %}}." *The Heat Wave*, November 2006.
 
-[*Reggae In Babylon*](http://www.imdb.com/title/tt0371128/). Wolfgang Büld. WDR, 1978.
+{{% resource_link "91c8e8ff-8664-444d-9357-7b62f55019b3" "*Reggae In Babylon*" %}}. Wolfgang Büld. WDR, 1978.
 
-[*MUTINY: Asians Storm British Music*](http://www.imdb.com/title/tt3663520/). Vivek Bald. Unreleased.
+{{% resource_link "0634e0e4-f01d-4edc-a017-ab11dc423570" "*MUTINY: Asians Storm British Music*" %}}. Vivek Bald. Unreleased.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8-9
@@ -119,13 +117,13 @@ United States
 
 Excerpts from:
 
-[*Tokion Presents Sound Class*](http://vimeo.com/4493597)*.* Adam Glickman. Tokion Magazine, 2003.
+{{% resource_link "7fd0ca47-8cfd-45e4-be83-71ea4daccf6f" "*Tokion Presents Sound Class*" %}}*.* Adam Glickman. Tokion Magazine, 2003.
 
-[*Marked for Death*](http://www.imdb.com/title/tt0100114/). Dwight Little. 20th Century Fox, 1990.
+{{% resource_link "c3e286cc-d1cd-4a2e-be82-8c1ac30abacb" "*Marked for Death*" %}}. Dwight Little. 20th Century Fox, 1990.
 
-[*Belly*](http://www.imdb.com/title/tt0158493/). Hype Williams. Artisan Entertainment, 1998.
+{{% resource_link "d065bc8a-6b8d-4c0b-8c98-bb416570d9cf" "*Belly*" %}}. Hype Williams. Artisan Entertainment, 1998.
 
-[*Predator 2*](http://www.imdb.com/title/tt0100403/). Stephen Hopkins. 20th Century Fox, 1990.
+{{% resource_link "cc0651a3-f4d8-4c91-977d-4b78c6535870" "*Predator 2*" %}}. Stephen Hopkins. 20th Century Fox, 1990.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -157,9 +155,9 @@ Cuba
 Brazil
 {{< tdclose >}}{{< tdopen >}}
 
-[*Favela Rising*](http://www.imdb.com/title/tt0455949/). Matt Mochary and Jeff Zimbalist. All Rise Films, 2005.
+{{% resource_link "f52ea71e-bd74-4310-8262-7dae65e7a0af" "*Favela Rising*" %}}. Matt Mochary and Jeff Zimbalist. All Rise Films, 2005.
 
-[*Favela on Blast*](http://www.imdb.com/title/tt1353167/). Leandro HBL and Wesley Pentz. Mosquito Project and Mad Decent, 2008.
+{{% resource_link "b9c7d37d-a263-47e3-b741-bba0a82b5a32" "*Favela on Blast*" %}}. Leandro HBL and Wesley Pentz. Mosquito Project and Mad Decent, 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18-20
@@ -167,11 +165,11 @@ Brazil
 West, East, and Southern Africa
 {{< tdclose >}}{{< tdopen >}}
 
-[*Living the Hiplife*](https://vimeo.com/314152616). Jesse Weaver Shipley. 2007.
+{{% resource_link "1ebc907f-a79a-4d77-8c8e-46b53a02c7b3" "*Living the Hiplife*" %}}. Jesse Weaver Shipley. 2007.
 
-[*Africa Unite: A Celebration of Bob Marley's 60th Birthday*](http://www.imdb.com/title/tt0993744/). Stephanie Black. Palm Pictures, 2008.
+{{% resource_link "66658173-1521-4994-9eaa-3ff93df15657" "*Africa Unite: A Celebration of Bob Marley's 60th Birthday*" %}}. Stephanie Black. Palm Pictures, 2008.
 
-["Buchaman."](https://www.vice.com/en_us/article/mvbdba/buchaman) *Music World*. VBS, 2008.
+{{% resource_link "c9127b37-0e0a-4415-b125-d39a5cc0c0ad" "\"Buchaman.\"" %}} *Music World*. VBS, 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21-22
